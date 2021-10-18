@@ -1,0 +1,5 @@
+@echo git show = Show objects
+@echo git log = Show the history of commit command
+@echo git checkout = Change branch
+@echo git init = Create git system inside the folder
+@echo git reset = Unstage the file
