@@ -8,3 +8,5 @@ Priority:cool stuff
 >>>>>>> coolstuff
 
 User 1 says hello!
+
+I want it that way
