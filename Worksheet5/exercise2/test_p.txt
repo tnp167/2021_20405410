@@ -1,0 +1,7 @@
+----------------------------List of items----------------------------
+Item No. 1 : Name: Item_Name     Unit cost: 0     Stock level: 0     Reorder: No
+Item No. 2 : Name: Item_Name     Unit cost: 0     Stock level: 0     Reorder: No
+Item No. 3 : Name: Item_Name2     Unit cost: 2     Stock level: 2     Reorder: Yes
+Item No. 4 : Name: Item_Name3     Unit cost: 3     Stock level: 4     Reorder: Yes
+Item No. 5 : Name: Item_Name     Unit cost: 0     Stock level: 0     Reorder: No
+Item No. 6 : Name: Item_Name     Unit cost: 0     Stock level: 0     Reorder: No
