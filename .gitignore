@@ -21,6 +21,7 @@
 *.vcxproj
 *.recipe
 *.cbp
+*html/
 
 msvc_static/
 msvc_dynamic/
@@ -28,6 +29,7 @@ build_msvc/
 hello_qt_autogen/
 cmake-build-debug/
 **/CMakeFiles/
+html/
 
 CMakeCache.txt
 CMakeScripts
